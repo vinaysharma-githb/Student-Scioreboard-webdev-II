@@ -1,3 +1,4 @@
+
 ## 🚀 Features
 📋 Display student records in a clean and organized table
 ➕ Add new students with their scores
@@ -8,7 +9,7 @@
 ⚡ Real-time updates using React state management
 ## 🛠️ Technologies Used
 React.js
-JavaScript (ES6+)
+JavaScript
 HTML5
 CSS3
 
