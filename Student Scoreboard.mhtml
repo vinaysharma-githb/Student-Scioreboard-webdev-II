@@ -1,0 +1,602 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Vinay/Downloads/Student%20Scoreboard.html
+Subject: Student Scoreboard
+Date: Sun, 3 May 2026 14:04:50 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--mJopnEAo15CY3SPNnlhrRAwFQ7apDvlJHSb6m6tNrn----"
+
+
+------MultipartBoundary--mJopnEAo15CY3SPNnlhrRAwFQ7apDvlJHSb6m6tNrn----
+Content-Type: text/html
+Content-ID: <frame-0F8B48945F604B697CB1C7457F3D4079@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Vinay/Downloads/Student%20Scoreboard.html
+
+<!DOCTYPE html><!-- saved from url=3D(0022)http://localhost:5174/ --><html =
+lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; c=
+harset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-=
+aa61819d-99fd-40f2-ad84-9f524728dd12@mhtml.blink" /><link rel=3D"stylesheet=
+" type=3D"text/css" href=3D"cid:css-7cb0e9f5-fa9d-4e4c-94ca-09c9c367c1cc@mh=
+tml.blink" />
+   =20
+
+   =20
+
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Student Scoreboard</title>
+  </head>
+  <body>
+    <div id=3D"root"><div class=3D"app"><header class=3D"header"><div class=
+=3D"header__tag">=E2=80=94 ACADEMIC TERMINAL V2.0</div><h1 class=3D"header_=
+_title"><span class=3D"header__title--white">STUDENT </span><span class=3D"=
+header__title--cyan">SCOREBOARD</span></h1><div class=3D"header__line"></di=
+v></header><br><div class=3D"register-form "><div class=3D"register-form__h=
+eader"><span class=3D"register-form__indicator"></span><span class=3D"regis=
+ter-form__label">REGISTER STUDENT</span><span class=3D"register-form__subla=
+bel">NEW ENTRY</span></div><div class=3D"register-form__body"><input class=
+=3D"register-form__input register-form__input--name" type=3D"text" placehol=
+der=3D"Student name" maxlength=3D"30" value=3D"" fdprocessedid=3D"ijyqg8"><=
+input class=3D"register-form__input register-form__input--score" type=3D"nu=
+mber" placeholder=3D"Score (0-100)" min=3D"0" max=3D"100" value=3D"" fdproc=
+essedid=3D"pngfv7"><button class=3D"register-form__btn" fdprocessedid=3D"86=
+v5w">+ ADD</button></div></div><br><div class=3D"stats-bar"><div class=3D"s=
+tat-card stat-card--cyan"><div class=3D"stat-card__label">TOTAL</div><div c=
+lass=3D"stat-card__value"><span>4</span></div></div><div class=3D"stats-bar=
+__divider"></div><div class=3D"stat-card stat-card--green"><div class=3D"st=
+at-card__label">PASSED</div><div class=3D"stat-card__value"><span>3</span><=
+/div></div><div class=3D"stats-bar__divider"></div><div class=3D"stat-card =
+stat-card--yellow"><div class=3D"stat-card__label">AVG. SCORE</div><div cla=
+ss=3D"stat-card__value"><span>63</span></div></div></div><br><br><div class=
+=3D"student-table"><div class=3D"student-table__header"><span class=3D"stud=
+ent-table__title">STUDENT RECORDS</span><span class=3D"student-table__count=
+">4 entries</span></div><div class=3D"student-table__cols"><span>NAME</span=
+><span>SCORE</span><span>STATUS</span><span>UPDATE</span></div><div class=
+=3D"student-table__body"><div class=3D"student-row " style=3D"animation-del=
+ay: 0s;"><span class=3D"student-row__name">Aman</span><span class=3D"studen=
+t-row__score student-row__score--pass">78</span><span class=3D"student-row_=
+_badge student-row__badge--pass"><span class=3D"student-row__badge-dot"></s=
+pan>PASS</span><div class=3D"student-row__update"><input class=3D"student-r=
+ow__input " type=3D"number" min=3D"0" max=3D"100" value=3D"78" fdprocessedi=
+d=3D"5ow0v"><button class=3D"student-row__save-btn " disabled=3D"">SAVE</bu=
+tton></div></div><div class=3D"student-row " style=3D"animation-delay: 0.04=
+s;"><span class=3D"student-row__name">Roman</span><span class=3D"student-ro=
+w__score student-row__score--pass">45</span><span class=3D"student-row__bad=
+ge student-row__badge--pass"><span class=3D"student-row__badge-dot"></span>=
+PASS</span><div class=3D"student-row__update"><input class=3D"student-row__=
+input " type=3D"number" min=3D"0" max=3D"100" value=3D"45" fdprocessedid=3D=
+"67nsci"><button class=3D"student-row__save-btn " disabled=3D"">SAVE</butto=
+n></div></div><div class=3D"student-row " style=3D"animation-delay: 0.08s;"=
+><span class=3D"student-row__name">Jonny</span><span class=3D"student-row__=
+score student-row__score--pass">98</span><span class=3D"student-row__badge =
+student-row__badge--pass"><span class=3D"student-row__badge-dot"></span>PAS=
+S</span><div class=3D"student-row__update"><input class=3D"student-row__inp=
+ut " type=3D"number" min=3D"0" max=3D"100" value=3D"98" fdprocessedid=3D"wc=
+jyia"><button class=3D"student-row__save-btn " disabled=3D"">SAVE</button><=
+/div></div><div class=3D"student-row " style=3D"animation-delay: 0.12s;"><s=
+pan class=3D"student-row__name">Rambir</span><span class=3D"student-row__sc=
+ore student-row__score--fail">32</span><span class=3D"student-row__badge st=
+udent-row__badge--fail"><span class=3D"student-row__badge-dot"></span>FAIL<=
+/span><div class=3D"student-row__update"><input class=3D"student-row__input=
+ " type=3D"number" min=3D"0" max=3D"100" value=3D"32" fdprocessedid=3D"9nx3=
+ro"><button class=3D"student-row__save-btn " disabled=3D"">SAVE</button></d=
+iv></div></div></div><footer class=3D"footer"><span class=3D"footer__text">=
+ACADEMIC TERMINAL =E2=80=94 ONLINE SESSION</span></footer></div></div>
+   =20
+ =20
+
+<div id=3D"aura-ai-root" style=3D"position: fixed; right: 16px; bottom: 16p=
+x; z-index: 2147483647; pointer-events: none; display: block; font-family: =
+Inter, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Robot=
+o, sans-serif;"><template shadowmode=3D"open">
+   =20
+    <div class=3D"aura-wrap" id=3D"auraWrap">
+      <div class=3D"aura-panel" id=3D"auraPanel" aria-hidden=3D"true">
+        <div class=3D"aura-header">
+          <span class=3D"aura-title">Aura AI</span>
+          <div class=3D"aura-header-actions">
+            <button id=3D"auraClose" class=3D"aura-close" type=3D"button" a=
+ria-label=3D"Close">=C3=97</button>
+          </div>
+        </div>
+        <div class=3D"aura-messages" id=3D"auraMessages"><div class=3D"aura=
+-msg system">Aura AI ready. Configure API key in extension options.</div></=
+div>
+        <div class=3D"aura-composer">
+          <div class=3D"aura-tools">
+            <button id=3D"auraCapture" class=3D"aura-tool-btn" type=3D"butt=
+on" title=3D"Capture screenshot">=F0=9F=93=B8</button>
+            <button id=3D"auraClearImage" class=3D"aura-tool-btn" type=3D"b=
+utton" title=3D"Clear image">=E2=9C=95</button>
+            <button id=3D"auraSend" class=3D"aura-send" type=3D"button" tit=
+le=3D"Send">=E2=9E=A4</button>
+          </div>
+          <div class=3D"aura-attachment" id=3D"auraAttachment">No image att=
+ached</div>
+          <input id=3D"auraInput" class=3D"aura-input" placeholder=3D"Ask A=
+ura AI...">
+        </div>
+      </div>
+      <button id=3D"auraFab" class=3D"aura-fab" type=3D"button" aria-label=
+=3D"Open Aura AI" style=3D"transform: translate(24px, -833.6px);"><span cla=
+ss=3D"aura-fab-dot" aria-hidden=3D"true"></span></button>
+    </div>
+  </template></div><span id=3D"PING_IFRAME_FORM_DETECTION" style=3D"display=
+: none;"></span><div id=3D"aura-ai-root" style=3D"position: fixed; right: 1=
+6px; bottom: 16px; z-index: 2147483647; pointer-events: none; display: bloc=
+k; font-family: Inter, ui-sans-serif, system-ui, -apple-system, &quot;Segoe=
+ UI&quot;, Roboto, sans-serif;"><template shadowmode=3D"open">
+   =20
+    <div class=3D"aura-wrap" id=3D"auraWrap">
+      <div class=3D"aura-panel" id=3D"auraPanel" aria-hidden=3D"true">
+        <div class=3D"aura-header">
+          <span class=3D"aura-title">Aura AI</span>
+          <div class=3D"aura-header-actions">
+            <button id=3D"auraClose" class=3D"aura-close" type=3D"button" a=
+ria-label=3D"Close">=C3=97</button>
+          </div>
+        </div>
+        <div class=3D"aura-messages" id=3D"auraMessages"><div class=3D"aura=
+-msg system">Aura AI ready. Configure API key in extension options.</div></=
+div>
+        <div class=3D"aura-composer">
+          <div class=3D"aura-tools">
+            <button id=3D"auraCapture" class=3D"aura-tool-btn" type=3D"butt=
+on" title=3D"Capture screenshot">=F0=9F=93=B8</button>
+            <button id=3D"auraClearImage" class=3D"aura-tool-btn" type=3D"b=
+utton" title=3D"Clear image">=E2=9C=95</button>
+            <button id=3D"auraSend" class=3D"aura-send" type=3D"button" tit=
+le=3D"Send">=E2=9E=A4</button>
+          </div>
+          <div class=3D"aura-attachment" id=3D"auraAttachment">No image att=
+ached</div>
+          <input id=3D"auraInput" class=3D"aura-input" placeholder=3D"Ask A=
+ura AI...">
+        </div>
+      </div>
+      <button id=3D"auraFab" class=3D"aura-fab" type=3D"button" aria-label=
+=3D"Open Aura AI" style=3D"transform: translate(24px, -833.6px);"><span cla=
+ss=3D"aura-fab-dot" aria-hidden=3D"true"></span></button>
+    </div>
+  </template></div></body></html>
+------MultipartBoundary--mJopnEAo15CY3SPNnlhrRAwFQ7apDvlJHSb6m6tNrn----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7cb0e9f5-fa9d-4e4c-94ca-09c9c367c1cc@mhtml.blink
+
+@charset "utf-8";
+
+.app { max-width: 900px; margin: 0px auto; padding: 30px 20px; position: re=
+lative; animation: 8s ease 0s infinite normal none running flicker; }
+
+.app::after { content: ""; position: fixed; left: 0px; right: 0px; height: =
+3px; background: linear-gradient(90deg, transparent, var(--accent-cyan-dim)=
+, transparent); opacity: 0.15; pointer-events: none; z-index: 999; }
+------MultipartBoundary--mJopnEAo15CY3SPNnlhrRAwFQ7apDvlJHSb6m6tNrn----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 900; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4GM-aUWA.woff2") format("woff2"); unicode-range: U+900-97F, U+=
+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0=
+-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4JM-aUWA.woff2") format("woff2"); unicode-range: U+100-2BA, U+=
+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF,=
+ U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60=
+-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4HM-Y.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Share Tech Mono"; font-style: normal; font-weigh=
+t: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/sharetech=
+mono/v16/J7aHnp1uDWRBEqV98dVQztYldFcLowEF.woff2") format("woff2"); unicode-=
+range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+3=
+08, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+F=
+EFF, U+FFFD; }
+------MultipartBoundary--mJopnEAo15CY3SPNnlhrRAwFQ7apDvlJHSb6m6tNrn----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-aa61819d-99fd-40f2-ad84-9f524728dd12@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DOrbitron:wght@400;7=
+00;900&family=3DShare+Tech+Mono&family=3DRajdhani:wght@400;500;600;700&disp=
+lay=3Dswap");
+
+:root { --bg-primary: #050d0d; --bg-secondary: #071414; --bg-card: #0a1a1a;=
+ --bg-input: #061212; --accent-cyan: #00ffcc; --accent-cyan-dim: #00ffcc55;=
+ --accent-cyan-glow: #00ffcc99; --accent-yellow: #f0e040; --accent-red: #ff=
+3355; --accent-green: #00ff88; --text-primary: #c8f0e8; --text-secondary: #=
+26eebc; --text-muted: #029376f3; --border-color: #0d3030; --border-active: =
+#00ffcc44; --grid-line: #0a2020; --pass-bg: #003322; --pass-text: #00ff88; =
+--fail-bg: #330011; --fail-text: #ff3355; --shadow-cyan: 0 0 20px #00ffcc33=
+; --shadow-cyan-strong: 0 0 40px #00ffcc66; }
+
+* { margin: 0px; padding: 0px; }
+
+html, body { width: 100%; min-height: 100vh; background-color: var(--bg-pri=
+mary); color: var(--text-primary); font-family: "bebas neue", sans-serif; f=
+ont-size: 16px; overflow-x: hidden; }
+
+body { background-image: linear-gradient(var(--grid-line) 1px, transparent =
+1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px); backgrou=
+nd-size: 40px 40px; background-position: center center; }
+
+body::before { content: ""; position: fixed; inset: 0px; background: radial=
+-gradient(at 50% 0%, rgba(26, 199, 164, 0.04) 0%, transparent 60%); pointer=
+-events: none; z-index: 0; }
+
+.footer { text-align: center; margin-top: 40px; padding-top: 20px; border-t=
+op: 1px solid var(--border-color); }
+
+.footer__text { font-family: "Share Tech Mono", monospace; font-size: 12px;=
+ letter-spacing: 3px; color: var(--text-muted); }
+
+.header { text-align: left; margin-bottom: 32px; padding-top: 10px; }
+
+.header__tag { font-family: "Share Tech Mono", monospace; font-size: 11px; =
+letter-spacing: 4px; color: var(--text-secondary); margin-bottom: 8px; text=
+-transform: uppercase; opacity: 0.7; }
+
+.header__title { font-family: Orbitron, sans-serif; font-size: clamp(32px, =
+6vw, 56px); font-weight: 900; line-height: 1; margin-bottom: 16px; user-sel=
+ect: none; }
+
+.header__title--white { color: rgb(255, 255, 255); text-shadow: rgba(255, 2=
+55, 255, 0.267) 0px 0px 30px; }
+
+.header__title--cyan { color: var(--accent-cyan); text-shadow: 0 0 20px var=
+(--accent-cyan), 0 0 40px var(--accent-cyan-dim); }
+
+.header__line { width: 850px; height: 1px; background: linear-gradient(90de=
+g, transparent, var(--accent-cyan), transparent); margin: 0px auto; box-sha=
+dow: 0 0 10px var(--accent-cyan); }
+
+.register-form { background: var(--bg-card); border: 1px solid var(--border=
+-color); border-radius: 4px; padding: 14px 18px 18px; margin-bottom: 16px; =
+transition: border-color 0.3s, box-shadow 0.3s; position: relative; overflo=
+w: hidden; }
+
+.register-form::before { content: ""; position: absolute; top: 0px; left: 0=
+px; right: 0px; height: 1px; background: linear-gradient(90deg, transparent=
+, var(--accent-cyan-dim), transparent); opacity: 0; transition: opacity 0.3=
+s; }
+
+.register-form:hover::before, .register-form:focus-within::before { opacity=
+: 1; }
+
+.register-form:focus-within { border-color: var(--border-active); box-shado=
+w: var(--shadow-cyan), inset 0 0 30px #00ffcc05; }
+
+.register-form--flash { animation: 0.5s ease-out 0s 1 normal none running f=
+lash-confirm; }
+
+@keyframes flash-confirm {=20
+  0% { box-shadow: transparent 0px 0px 0px; }
+  30% { box-shadow: 0 0 40px var(--accent-cyan-glow), inset 0 0 20px #00ffc=
+c15; }
+  100% { box-shadow: var(--shadow-cyan); }
+}
+
+.register-form__header { display: flex; align-items: center; gap: 8px; marg=
+in-bottom: 12px; font-family: "Share Tech Mono", monospace; font-size: 10px=
+; letter-spacing: 2px; color: var(--text-secondary); }
+
+.register-form__indicator { width: 6px; height: 6px; border-radius: 50%; ba=
+ckground: var(--accent-cyan); box-shadow: 0 0 8px var(--accent-cyan); anima=
+tion: 2s ease 0s infinite normal none running pulse-glow; flex-shrink: 0; }
+
+.register-form__label { flex: 1 1 0%; letter-spacing: 3px; }
+
+.register-form__error { color: var(--accent-red); font-size: 9px; letter-sp=
+acing: 1px; animation: 0.2s ease 0s 1 normal none running slide-down; }
+
+.register-form__sublabel { font-size: 9px; color: var(--text-muted); letter=
+-spacing: 2px; margin-left: auto; }
+
+.register-form__body { display: flex; gap: 10px; align-items: stretch; }
+
+.register-form__input { background: var(--bg-input); border: 1px solid var(=
+--border-color); border-radius: 3px; color: var(--accent-cyan); font-family=
+: "Share Tech Mono", monospace; font-size: 13px; padding: 10px 14px; outlin=
+e: none; transition: 0.25s; caret-color: var(--accent-cyan); }
+
+.register-form__input::placeholder { color: var(--text-muted); font-size: 1=
+2px; }
+
+.register-form__input:focus { border-color: var(--accent-cyan-dim); box-sha=
+dow: rgba(0, 255, 204, 0.133) 0px 0px 12px, rgba(0, 255, 204, 0.03) 0px 0px=
+ 10px inset; background: rgb(7, 24, 24); }
+
+.register-form__input:hover:not(:focus) { border-color: var(--text-muted); =
+}
+
+.register-form__input--name { flex: 2 1 0%; }
+
+.register-form__input--score { flex: 1 1 0%; }
+
+.register-form__input--score::-webkit-inner-spin-button, .register-form__in=
+put--score::-webkit-outer-spin-button { appearance: none; margin: 0px; }
+
+.register-form__btn { background-repeat: initial; background-attachment: in=
+itial; background-origin: initial; background-clip: initial; background-col=
+or: transparent; border: 1px solid var(--accent-cyan); color: var(--accent-=
+cyan); font-family: Orbitron, sans-serif; font-size: 11px; font-weight: 700=
+; letter-spacing: 2px; padding: 10px 20px; border-radius: 3px; cursor: poin=
+ter; white-space: nowrap; position: relative; overflow: hidden; background-=
+image: linear-gradient(to right, transparent 50%, var(--accent-cyan) 50%); =
+background-size: 200% 100%; background-position: left bottom; transition: b=
+ackground-position 0.35s; }
+
+.register-form__btn:hover { color: rgb(0, 0, 0); text-shadow: none; backgro=
+und-position: right bottom; }
+
+.register-form__btn span { position: relative; z-index: 1; }
+
+.register-form__btn:hover { color: rgb(0, 0, 0); }
+
+.register-form__btn:active { transform: scale(0.97); }
+
+.stats-bar { display: flex; align-items: stretch; background: var(--bg-card=
+); border: 1px solid var(--border-color); border-radius: 4px; margin-bottom=
+: 16px; overflow: hidden; position: relative; }
+
+.stats-bar::before { content: ""; position: absolute; top: 0px; left: 0px; =
+right: 0px; height: 1px; background: linear-gradient(90deg, transparent, va=
+r(--accent-cyan-dim), transparent); }
+
+.stats-bar__divider { width: 1px; background: var(--border-color); margin: =
+12px 0px; }
+
+.stat-card { flex: 1 1 0%; padding: 18px 28px; cursor: default; transition:=
+ background 0.25s; position: relative; overflow: hidden; }
+
+.stat-card::after { content: ""; position: absolute; inset: 0px; opacity: 0=
+; transition: opacity 0.25s; }
+
+.stat-card:hover::after { opacity: 1; }
+
+.stat-card--cyan::after { background: radial-gradient(at 30% 50%, rgba(0, 2=
+55, 204, 0.03), transparent 70%); }
+
+.stat-card--green::after { background: radial-gradient(at 30% 50%, rgba(0, =
+255, 136, 0.03), transparent 70%); }
+
+.stat-card--yellow::after { background: radial-gradient(at 30% 50%, rgba(24=
+0, 224, 64, 0.03), transparent 70%); }
+
+.stat-card--red::after { background: radial-gradient(at 30% 50%, rgba(255, =
+51, 85, 0.03), transparent 70%); }
+
+.stat-card__label { font-family: "Share Tech Mono", monospace; font-size: 9=
+px; letter-spacing: 3px; color: var(--text-muted); margin-bottom: 10px; tex=
+t-transform: uppercase; }
+
+.stat-card__value { font-family: Orbitron, sans-serif; font-size: 36px; fon=
+t-weight: 700; line-height: 1; position: relative; z-index: 1; }
+
+.stat-card--cyan .stat-card__value { color: var(--text-primary); }
+
+.stat-card--green .stat-card__value { color: var(--accent-green); text-shad=
+ow: rgba(0, 255, 136, 0.267) 0px 0px 15px; }
+
+.stat-card--yellow .stat-card__value { color: var(--accent-yellow); text-sh=
+adow: rgba(240, 224, 64, 0.267) 0px 0px 15px; }
+
+.stat-card--red .stat-card__value { color: var(--accent-red); text-shadow: =
+rgba(255, 51, 85, 0.267) 0px 0px 15px; }
+
+.stat-card:hover .stat-card__value { filter: brightness(1.2); }
+
+.student-table { background: var(--bg-card); border: 1px solid var(--border=
+-color); border-radius: 4px; overflow: hidden; position: relative; }
+
+.student-table::before { content: ""; position: absolute; top: 0px; left: 0=
+px; right: 0px; height: 1px; background: linear-gradient(90deg, transparent=
+, var(--accent-cyan-dim), transparent); }
+
+.student-table__header { display: flex; align-items: center; justify-conten=
+t: space-between; padding: 12px 20px; border-bottom: 1px solid var(--border=
+-color); }
+
+.student-table__title { font-family: "Share Tech Mono", monospace; font-siz=
+e: 10px; letter-spacing: 3px; color: var(--text-secondary); }
+
+.student-table__count { font-family: "Share Tech Mono", monospace; font-siz=
+e: 10px; letter-spacing: 2px; color: var(--accent-cyan); }
+
+.student-table__cols { display: grid; grid-template-columns: 2fr 1fr 1.2fr =
+1.8fr; padding: 8px 20px; border-bottom: 1px solid var(--border-color); bac=
+kground: rgb(6, 15, 15); }
+
+.student-table__cols span { font-family: "Share Tech Mono", monospace; font=
+-size: 9px; letter-spacing: 2px; color: var(--text-muted); text-transform: =
+uppercase; }
+
+.student-table__body { min-height: 60px; }
+
+.student-table__empty { padding: 32px 20px; text-align: center; font-family=
+: "Share Tech Mono", monospace; font-size: 12px; color: var(--text-muted); =
+letter-spacing: 2px; }
+
+.student-row { display: grid; grid-template-columns: 2fr 1fr 1.2fr 1.8fr; a=
+lign-items: center; padding: 12px 20px; border-bottom: 1px solid rgb(8, 24,=
+ 24); transition: background 0.2s; animation: 0.4s ease 0s 1 normal backwar=
+ds running row-enter; position: relative; }
+
+.student-row::after { content: ""; position: absolute; left: 0px; top: 0px;=
+ bottom: 0px; width: 2px; background: var(--accent-cyan); opacity: 0; trans=
+ition: opacity 0.2s; }
+
+.student-row:hover { background: rgb(13, 31, 31); }
+
+.student-row:hover::after { opacity: 0.6; }
+
+.student-row:last-child { border-bottom-width: medium; border-bottom-style:=
+ none; border-bottom-color: currentcolor; }
+
+.student-row--saving { animation: 0.35s ease 0s 1 normal none running flash=
+-save; }
+
+@keyframes flash-save {=20
+  0%, 100% { background: transparent; }
+  50% { background: rgba(0, 255, 204, 0.05); }
+}
+
+.student-row__name { font-family: Rajdhani, sans-serif; font-size: 15px; fo=
+nt-weight: 600; color: var(--text-primary); letter-spacing: 0.5px; transiti=
+on: color 0.2s; }
+
+.student-row:hover .student-row__name { color: rgb(255, 255, 255); }
+
+.student-row__score { font-family: Orbitron, sans-serif; font-size: 18px; f=
+ont-weight: 700; transition: text-shadow 0.2s; }
+
+.student-row__score--pass { color: var(--accent-cyan); }
+
+.student-row__score--fail { color: var(--accent-red); }
+
+.student-row:hover .student-row__score--pass { text-shadow: 0 0 12px var(--=
+accent-cyan-glow); }
+
+.student-row:hover .student-row__score--fail { text-shadow: rgba(255, 51, 8=
+5, 0.4) 0px 0px 12px; }
+
+.student-row__badge { display: inline-flex; align-items: center; gap: 5px; =
+font-family: "Share Tech Mono", monospace; font-size: 10px; font-weight: 70=
+0; letter-spacing: 1.5px; padding: 4px 10px; border-radius: 2px; width: fit=
+-content; transition: 0.2s; }
+
+.student-row__badge-dot { width: 5px; height: 5px; border-radius: 50%; flex=
+-shrink: 0; }
+
+.student-row__badge--pass { background: var(--pass-bg); color: var(--pass-t=
+ext); border: 1px solid rgb(0, 68, 51); }
+
+.student-row__badge--pass .student-row__badge-dot { background: var(--pass-=
+text); box-shadow: 0 0 6px var(--pass-text); }
+
+.student-row__badge--fail { background: var(--fail-bg); color: var(--fail-t=
+ext); border: 1px solid rgb(68, 0, 34); }
+
+.student-row__badge--fail .student-row__badge-dot { background: var(--fail-=
+text); box-shadow: 0 0 6px var(--fail-text); }
+
+.student-row:hover .student-row__badge--pass { box-shadow: rgba(0, 255, 136=
+, 0.2) 0px 0px 10px; }
+
+.student-row:hover .student-row__badge--fail { box-shadow: rgba(255, 51, 85=
+, 0.2) 0px 0px 10px; }
+
+.student-row__update { display: flex; align-items: center; gap: 6px; }
+
+.student-row__input { width: 54px; background: var(--bg-input); border: 1px=
+ solid var(--border-color); border-radius: 2px; color: var(--text-primary);=
+ font-family: "Share Tech Mono", monospace; font-size: 12px; padding: 5px 8=
+px; outline: none; transition: 0.2s; text-align: center; }
+
+.student-row__input::-webkit-inner-spin-button, .student-row__input::-webki=
+t-outer-spin-button { appearance: none; margin: 0px; }
+
+.student-row__input:focus { border-color: var(--accent-cyan-dim); box-shado=
+w: rgba(0, 255, 204, 0.133) 0px 0px 8px; color: var(--accent-cyan); }
+
+.student-row__input--dirty { border-color: var(--accent-yellow); color: var=
+(--accent-yellow); }
+
+.student-row__save-btn { background: transparent; border: 1px solid var(--t=
+ext-muted); color: var(--text-muted); font-family: "Share Tech Mono", monos=
+pace; font-size: 10px; letter-spacing: 1px; padding: 5px 10px; border-radiu=
+s: 2px; cursor: pointer; transition: 0.2s; }
+------MultipartBoundary--mJopnEAo15CY3SPNnlhrRAwFQ7apDvlJHSb6m6tNrn------
