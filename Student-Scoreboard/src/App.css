@@ -1,0 +1,19 @@
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  position: relative;
+  animation: flicker 8s infinite;
+}
+
+.app::after {
+  content: '';
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--accent-cyan-dim), transparent);
+  opacity: 0.15;
+  pointer-events: none;
+  z-index: 999;
+}
